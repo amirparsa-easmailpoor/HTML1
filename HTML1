@@ -1,0 +1,26 @@
+<!DOCTYPE html5>
+<html dir="rtl" >
+ <head>
+ <meta charest="utf-8">
+ <title>آزمایشی</title>
+ </head>
+ <body style="width:100%;height:700px;background:black">
+    <header style="text-align:center;width:100%;height:40px;background:cyan">	
+	<h2 style="color:black"><em>WELCOME TO OUR SITE</em></h2>
+    </header>
+    <div style="text-align:center;">
+       <aside  dir="ltr"style=";width:25%;height:560px;background:white;float:left;padding-top:10px">
+	   <h1> منوی کنار صفحه که برای منوی دسته بندی ها هم استفاده میشه</h1>
+	   </aside>
+      <section dir="rtl"style="width:75%;height:560px;background:#BFBFBF;float:center;padding-top:10px">
+	   <h2 style="color:black"> متن و محتوای اصلی سایت </h2>
+	    </section>
+      <article style="width:100%;height:40px;background:red;float:center;margin-top:10px"> 
+		<h2 style="text-align:center"> فوتر جایی که اطلاعات بیشتر در ان درج میشود مانند شماره تماس </h2>
+		  </article>
+    </div>
+ <footer style="text-align:center;width:100%;height:30px;background:white">	
+ <b>امیرپارسا اسماعیل پور</b>
+</footer>
+ </body>
+</html>
